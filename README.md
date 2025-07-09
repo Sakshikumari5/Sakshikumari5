@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Sakshikumari5
-- 👀 I’m interested in AI, Data science, Machine Learning, Robotics and Web development.
-- 🌱 I’m currently learning Data Science.
-
-
-- 😄 Pronouns: she/her
-  
+Hi everyone,
+I am sakshi. interesetd in AI/ML. Focused on studying.
 
 <!---
 Sakshikumari5/Sakshikumari5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
