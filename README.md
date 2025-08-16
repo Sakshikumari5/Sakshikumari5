@@ -1,5 +1,5 @@
 Hi everyone,
-I am sakshi. interesetd in AI/ML. Focused on studying.
+I am sakshi.
 
 <!---
 Sakshikumari5/Sakshikumari5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
